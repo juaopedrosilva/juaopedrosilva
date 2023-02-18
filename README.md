@@ -1,10 +1,6 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px" />, I'm João Pedro Silva</h1>
+<h1 align="left">Hi, I'm João Pedro Silva</h1>
 
 I am Front End Developer, I'm always learning 
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=pedrojoaoti@gmail.com&su=Hey%20JP,%20tudo%20bem?%20Tem%20uma%20conversa%20pra%20voc%C3%AA!" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-pedrojoaoti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail JP"/>  
